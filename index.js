@@ -12,6 +12,7 @@ function countDown(startingNumber) {
     console.log(startingNumber);
     startingNumber -= 1;
   }
+  console.log(startingNumber);
 }
 
 
