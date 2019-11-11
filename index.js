@@ -5,3 +5,8 @@ function writeCards(names, event) {
   }
   return thankYouCards;
 }
+
+
+function countDown(startingNumber)
+
+
